@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "yesterday": "Yesterday",
+  "at": "at",
+  "updated": "Updated",
+  "noDescription": "No description",
+  "title": "Title",
+  "description": "Description",
+  "updatedAt": "Updated at",
+  "createdAt": "Created at",
+  "empty": "Empty",
+  "errorFetchingFromServer": "Error on loading data from server"
+}

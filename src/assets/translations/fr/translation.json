@@ -1,0 +1,13 @@
+{
+  "home": "Accueil",
+  "yesterday": "Hier",
+  "at": "le",
+  "updated": "Mis à jour",
+  "noDescription": "Pas de description",
+  "title": "Titre",
+  "description": "Description",
+  "updatedAt": "Mis à jour le ",
+  "createdAt": "Créé le",
+  "empty": "Vide",
+  "errorFetchingFromServer": "Erreur lors du chargement des données du serveur"
+}
